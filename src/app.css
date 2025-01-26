@@ -2,6 +2,8 @@
 
 @plugin 'tailwindcss-motion';
 
+@source './app.html';
+
 @custom-variant dark (&:where(.dark, .dark *));
 
 @utility mask-squircle {
