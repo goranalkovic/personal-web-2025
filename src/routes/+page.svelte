@@ -10,7 +10,7 @@
 </script>
 
 <section
-	class="mx-auto grid grid-cols-3 gap-y-16 px-6 lg:grid-rows-3 lg:gap-y-52 mb-24 md:mb-40"
+	class="mx-auto grid grid-cols-3 gap-y-16 px-6 lg:grid-rows-3 lg:gap-y-52 mb-24 md:mb-40 w-fit"
 	id="intro"
 >
 	<div class="col-start-1 col-end-4 row-start-2 max-w-2xl lg:col-end-3 lg:row-start-1 lg:row-end-3">
