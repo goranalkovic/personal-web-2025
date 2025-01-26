@@ -2,7 +2,7 @@
 	let { position, start, end = null, company, children, class: className, ...rest } = $props();
 </script>
 
-<li class={['max-w-lg py-4 first:pt-0 last:pb-0', className]}>
+<li class={['max-w-xl py-4 first:pt-0 last:pb-0', className]}>
 	<p class="col-span-2 text-xl font-medium dark:text-emerald-200">{position}</p>
 	{#if children}
 		<div class="col-span-2 mt-0.5 space-y-2 text-base text-balance text-stone-600 dark:text-white/90">
