@@ -43,7 +43,7 @@
 
 {@render children?.()}
 
-<footer class="mx-auto mt-24 flex items-center justify-between pr-6 pl-4 text-center text-sm lg:mt-40">
+<footer class="mx-auto mt-24 flex items-center justify-between pr-6 pl-4 text-center text-sm lg:mt-40 mb-24 md:mb-40">
 	<div class="flex gap-1">
 		<button
 			aria-label="Follow system"
